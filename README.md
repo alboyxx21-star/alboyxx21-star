@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="assets/hands.gif" width="640" alt="two hands reaching toward each other, pixel-art, PROJECT.EXE window between them" />
+<img src="assets/hands.jpg" width="640" alt="two hands reaching toward each other, pixel-art, PROJECT.EXE window between them" />
 
 <h1>PROJECT.EXE</h1>
 <h3>godz3d — dreAmer who ships</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=560&lines=loading+ideas...;compiling+dreams...;./run+--build" alt="typing terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&pause=1200&color=B266FF&background=00000000&center=true&vCenter=true&width=560&lines=loading+ideas...;compiling+dreams...;./run+--build" alt="typing terminal" />
 
 </div>
 
@@ -46,6 +46,16 @@ I build small, real websites for real businesses — not tutorial clones.
 
 ---
 
+## ⌁ Focus
+
+<div align="center">
+<img src="assets/eye.jpg" width="500" alt="close-up eye texture, degrees of love design overlay" />
+
+*Zero degrees of separation between an idea and its build.*
+</div>
+
+---
+
 ## ⌁ Shipped
 
 | Project | Stack | What it does |
@@ -56,16 +66,24 @@ I build small, real websites for real businesses — not tutorial clones.
 
 ---
 
+## ⌁ Energy
+
+<div align="center">
+<img src="assets/energy.gif" width="420" alt="glowing purple energy animation" />
+</div>
+
+---
+
 ## ⌁ Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-8A2BE2?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-8A2BE2?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-8A2BE2?style=flat-square&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-8A2BE2?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-8A2BE2?style=flat-square&logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-8A2BE2?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -75,8 +93,8 @@ I build small, real websites for real businesses — not tutorial clones.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alboyxx21-star&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=cccccc" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alboyxx21-star&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api?username=alboyxx21-star&show_icons=true&theme=transparent&hide_border=true&title_color=B266FF&icon_color=B266FF&text_color=cccccc&border_color=8A2BE2" width="49%" style="border:2px solid #8A2BE2;border-radius:8px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alboyxx21-star&layout=compact&theme=transparent&hide_border=true&title_color=B266FF&text_color=cccccc&border_color=8A2BE2" width="35%" style="border:2px solid #8A2BE2;border-radius:8px" />
 
 </div>
 
