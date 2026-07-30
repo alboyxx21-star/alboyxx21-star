@@ -10,23 +10,32 @@
 <br/>
 
 <div align="center">
-<img src="assets/energy.gif" width="420" alt="glowing purple energy animation" />
+<img src="https://i.pinimg.com/736x/fa/92/66/fa926652f9b84c5981c1a752f35ee695.jpg" width="420" alt="Pinterest image" style="border: 2px solid #8A2BE2; border-radius: 8px; box-shadow: 0 0 15px rgba(138, 43, 226, 0.5);" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="assets/energy.gif" width="420" alt="glowing purple energy animation" style="border: 2px solid #8A2BE2; border-radius: 8px; box-shadow: 0 0 15px rgba(138, 43, 226, 0.5);" />
 </div>
 
 <br/>
 
 <table align="center">
 <tr>
-<td align="center">
+<td align="center" style="border: 2px solid #8A2BE2; border-radius: 8px;">
+
 
 ```
+
 ┌──────────────────────────────┐
 │ > whoami                     │
 │ godz3d                       │
-│                               │
+│                              │
 │ > status                     │
-│ dreaming, building, shipping  │
+│ dreaming, building, shipping │
 └──────────────────────────────┘
+
 ```
 
 </td>
@@ -37,7 +46,7 @@
 
 ## ⌁ About
 
-<img src="assets/code-coffee.jpg" width="280" align="right" alt="Laptop and coffee" />
+<img src="assets/code-coffee.jpg" width="280" align="right" alt="Laptop and coffee" style="border: 2px solid #8A2BE2; border-radius: 8px; margin-left: 15px;" />
 
 
 Hello, friend.
@@ -55,7 +64,8 @@ Most days, I’m either building something, fixing what I broke, or trying to un
 ## ⌁ Focus
 
 <div align="center">
-<img src="assets/eye.jpg" width="500" alt="close-up eye texture, degrees of love design overlay" />
+<img src="assets/eye.jpg" width="500" alt="close-up eye texture, degrees of love design overlay" style="border: 2px solid #8A2BE2; border-radius: 8px; box-shadow: 0 0 15px rgba(138, 43, 226, 0.5);" />
+<br><br>
 *Zero degrees of separation between an idea and its build.*
 </div>
 
@@ -88,12 +98,15 @@ Most days, I’m either building something, fixing what I broke, or trying to un
 
 <div align="center">
 
+
 ```
+
 while (alive) {
-  dream();
-  build();
-  ship();
+dream();
+build();
+ship();
 }
+
 ```
 
 *Where two hands meet, the code begins.*
@@ -101,5 +114,7 @@ while (alive) {
 </div>
 
 <div align="center">
-<img src="assets/hands.jpg" width="640" alt="two hands reaching toward each other, pixel-art, PROJECT.EXE window between them" />
+<img src="assets/hands.jpg" width="640" alt="two hands reaching toward each other, pixel-art, PROJECT.EXE window between them" style="border: 2px solid #8A2BE2; border-radius: 8px; box-shadow: 0 0 15px rgba(138, 43, 226, 0.5);" />
 </div>
+
+```
