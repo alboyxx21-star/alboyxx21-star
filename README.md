@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <h1>godz3d.EXE</h1>
@@ -5,12 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&pause=1200&color=B266FF&background=00000000&center=true&vCenter=true&width=560&lines=loading+ideas...;compiling+dreams...;./run+--build" alt="typing terminal" />
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://i.pinimg.com/736x/fa/92/66/fa926652f9b84c5981c1a752f35ee695.jpg" width="420" alt="Pinterest image" style="border: 2px solid #8A2BE2; border-radius: 8px; box-shadow: 0 0 15px rgba(138, 43, 226, 0.5);" />
 </div>
 
 <br/>
