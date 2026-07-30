@@ -55,8 +55,7 @@ Most days, I’m either building something, fixing what I broke, or trying to un
 ## ⌁ Focus
 
 <div align="center">
-<img src="assets/hands.jpg" width="640" alt="two hands reaching toward each other, pixel-art, PROJECT.EXE window between them" />
-
+<img src="assets/eye.jpg" width="500" alt="close-up eye texture, degrees of love design overlay" />
 *Zero degrees of separation between an idea and its build.*
 </div>
 
@@ -102,5 +101,5 @@ while (alive) {
 </div>
 
 <div align="center">
-<img src="assets/eye.jpg" width="500" alt="close-up eye texture, degrees of love design overlay" />
+<img src="assets/hands.jpg" width="640" alt="two hands reaching toward each other, pixel-art, PROJECT.EXE window between them" />
 </div>
