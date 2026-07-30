@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/overlay.gif" width="100%" alt="glowing purple prismatic overlay" />
-
 <h1>PROJECT.EXE</h1>
 <h3>godz3d — dreAmer who ships</h3>
 
