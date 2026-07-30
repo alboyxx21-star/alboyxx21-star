@@ -1,7 +1,7 @@
 <div align="center">
 
-<h1>PROJECT.EXE</h1>
-<h3>godz3d — dreAmer who ships</h3>
+<h1>godz3d.EXE</h1>
+<h3>dreAmer</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&pause=1200&color=B266FF&background=00000000&center=true&vCenter=true&width=560&lines=loading+ideas...;compiling+dreams...;./run+--build" alt="typing terminal" />
 
@@ -37,14 +37,16 @@
 
 ## ⌁ About
 
-<img src="assets/code-coffee.jpg" width="280" align="right" alt="laptop plus coffee equals code" />
+<img src="assets/code-coffee.jpg" width="280" align="right" alt="Laptop and coffee" />
 
-I build small, real websites for real businesses — not tutorial clones.
 
-- 🌍 Albania-based web developer
-- 🧱 Comfortable with **HTML / CSS / JavaScript**, growing into **Node.js** and **React**
-- 🚕 🍕 📦 Live projects: a taxi service, a pizzeria, an inventory system
-- 💭 Half dreamer, half debugger — 😴💤 when not building
+Hello, friend.
+
+I’m a web developer based in Albania, building simple and useful websites for real businesses. I work with **HTML, CSS, and JavaScript**, while learning more about **Node.js** and **React**.
+
+Most days, I’m either building something, fixing what I broke, or trying to understand why it worked in the first place.
+
+**Control is sometimes an illusion. Debugging proves it.**
 
 <br clear="right"/>
 
